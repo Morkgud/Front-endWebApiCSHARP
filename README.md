@@ -1,2 +1,2 @@
 # Front-endWebApiCSHARP
- Front-end de uma web-api em Csharp 
+ Front-end da Web Api feita em C#, TypeScript e a framework angular de filmes, séries e esportes
